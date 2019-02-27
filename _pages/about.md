@@ -17,5 +17,10 @@ Recent Professional Activities
 
 Publications
 ======
-* ***Xiaohui Xie***, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Yunqiu Shao, Zixin Ye, Min Zhang and Shaoping Ma. Grid-based Evaluation Metrics for Web Image Search. The Web Conference 2019 (**theWebConf 2019**). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/WWW19Xie.pdf)
-
+* ***Xiaohui Xie***, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Yunqiu Shao, Zixin Ye, Min Zhang and Shaoping Ma. Grid-based Evaluation Metrics for Web Image Search. The Web Conference 2019 (**theWebConf 2019**). 
+* ***Xiaohui Xie***. User Behavior Modeling for Web Image Search. The Twelfth ACM International Conference on Web Search and Data Mining (**WSDM 2019**).
+* Zhijing Wu, ***Xiaohui Xie***, Yiqun Liu, Min Zhang and Shaoping Ma. A Study of User Image Search Behavior Based on Log Analysis. The 23rd China Conference on Information Retrieval (**CCIR2017**).
+* ***Xiaohui Xie***, Jiaxin Mao, Maarten de Rijke, Ruizhe Zhang, Min Zhang and Shaoping Ma. Constructing an interaction behavior model for web image search. The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval (**SIGIR 2018**).
+* ***Xiaohui Xie***, Yiqun Liu, Maarten De Rijke, Jiyin He, Min Zhang and Shaoping Ma. Why people search for images using web search engines? The Eleventh ACM International Conference on Web Search and Data Mining (**WSDM 2018**). 
+* ***Xiaohui Xie***, Yiqun Liu, Xiaochuan Wang, Meng Wang, Zhijing Wu, Yingying Wu, Min Zhang and Shaoping Ma. Investigating Examination Behavior of Image Search Users. The 40th ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR 2017**).
+* Yiqun Liu, ***Xiaohui Xie***, Chao Wang, Jian-Yun Nie, Min Zhang and Shaoping Ma. Time-aware click model. ACM Transactions on Information Systems (**TOIS**)
