@@ -24,3 +24,6 @@ Publications
 * ***Xiaohui Xie***, Yiqun Liu, Maarten De Rijke, Jiyin He, Min Zhang and Shaoping Ma. Why people search for images using web search engines? The Eleventh ACM International Conference on Web Search and Data Mining (**WSDM 2018**). 
 * ***Xiaohui Xie***, Yiqun Liu, Xiaochuan Wang, Meng Wang, Zhijing Wu, Yingying Wu, Min Zhang and Shaoping Ma. Investigating Examination Behavior of Image Search Users. The 40th ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR 2017**).
 * Yiqun Liu, ***Xiaohui Xie***, Chao Wang, Jian-Yun Nie, Min Zhang and Shaoping Ma. Time-aware click model. ACM Transactions on Information Systems (**TOIS**)
+
+Experiences
+======
