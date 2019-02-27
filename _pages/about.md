@@ -27,3 +27,5 @@ Publications
 
 Experiences
 ======
+* **Oct. 2018 - Apr. 2019**. Visiting PhD student, Information and Language Processing Systems group, University of Amsterdam, Netherlands.
+* **Sep. 2017 - Sep. 2018**. Intern, Search Department, Sogou Incorporation, Beijing, China.
