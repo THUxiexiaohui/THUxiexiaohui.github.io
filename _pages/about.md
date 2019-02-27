@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me: Fan Zhang (张帆)"
+title: "About Me: Xiaohui Xie (谢晓晖)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Web Search Evaluation and User Behavior Model.
+I am now a third year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My research interests are Web image search, user behavior modeling, evaluation metrics and etc.
 
 Recent Professional Activities
 ======
