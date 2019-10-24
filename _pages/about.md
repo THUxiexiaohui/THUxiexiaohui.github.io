@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My research interests are multimedia search, user behavior modeling, evaluation metrics and etc.
+I am now a fourth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My research interests are multimedia search, user behavior modeling, evaluation metrics and etc.
 
 Recent Professional Activities
 ======
