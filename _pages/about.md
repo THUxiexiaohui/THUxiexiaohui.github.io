@@ -12,12 +12,15 @@ I am now a fourth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [De
 
 Recent Professional Activities
 ======
+* I gave a tutorial on ***"Modeling user behavior for vertical search: Images, Apps and Products"*** on SIGIR 2020. 
 * I serve as reviewer of IPM, TOIS, CIKM 2019, theWebConf 2020.
 * I serve as [Student Liaison of SIGIR](https://sites.google.com/view/sigir-students/about).
 * Our paper ***"A search engine click model based on deep neural network"*** won the **Best Student Paper Award** at [CCIR 2016](http://ccir2016.ccnl.scut.edu.cn/index.php).
 
 Publications
 ======
+* ***Xiaohui Xie***, Jiaxin Mao, Yiqun Liu, Maarten de Rijke. Modeling user behavior for vertical search: Images, Apps and Products. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2020**).
+* ***Xiaohui Xie***, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Haitian Chen, Min Zhang and Shaoping Ma. Preference-based Evaluation Metrics for Web Image Search. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2020**).
 * ***Xiaohui Xie***, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Qingyao Ai, Yufei Huang, Min Zhang and Shaoping Ma. Improving Web Image Search with Contextual Information. The 28th ACM International Conference on Information and Knowledge Management. (**CIKM 2019**).
 * ***Xiaohui Xie***, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Yunqiu Shao, Zixin Ye, Min Zhang and Shaoping Ma. Grid-based Evaluation Metrics for Web Image Search. The Web Conference 2019 (**theWebConf 2019**). 
 * ***Xiaohui Xie***. User Behavior Modeling for Web Image Search. The Twelfth ACM International Conference on Web Search and Data Mining (**WSDM 2019**).
