@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fourth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My research interests are multimedia search, user behavior modeling, evaluation metrics and etc.
+I am now a fifth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My research interests are multimedia search, user behavior modeling, evaluation metrics and etc.
 
 Recent Professional Activities
 ======
+* Our paper ***"Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics"*** won the **Best Paper Honorable Mention** at [SIGIR 2020](https://sigir.org/sigir2020/).
 * I gave a tutorial on ***"Modeling user behavior for vertical search: Images, Apps and Products"*** on SIGIR 2020. 
 * I serve as reviewer of IPM, TOIS, CIKM 2019, theWebConf 2020.
 * I serve as [Student Liaison of SIGIR](https://sites.google.com/view/sigir-students/about).
@@ -19,6 +20,7 @@ Recent Professional Activities
 
 Publications
 ======
+* Fan Zhang, Jiaxin Mao, Yiqun Liu, ***Xiaohui Xie***, Weizhi Ma, Min Zhang, Shaoping Ma. Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2020**). 
 * ***Xiaohui Xie***, Jiaxin Mao, Yiqun Liu, Maarten de Rijke. Modeling user behavior for vertical search: Images, Apps and Products. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2020**).
 * ***Xiaohui Xie***, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Haitian Chen, Min Zhang and Shaoping Ma. Preference-based Evaluation Metrics for Web Image Search. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2020**).
 * ***Xiaohui Xie***, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Qingyao Ai, Yufei Huang, Min Zhang and Shaoping Ma. Improving Web Image Search with Contextual Information. The 28th ACM International Conference on Information and Knowledge Management. (**CIKM 2019**).
