@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now an associate processor in the Institute of Computer Networks, [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My research interests are network security, multi-media, information retrieval, artificial intelligent and etc.
+I am now an associate processor in the Institute of Computer Networks, [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. 
+
+My research interests are network security, multi-media, information retrieval, artificial intelligent and etc.
 
 Recent Professional Activities
 ======
-* I joined the Institute of Computer Networks, Department of Computer Science and Technology in Tsinghua University in August 2023.
+* I joined the Institute of Computer Networks, DCST, Tsinghua University in August 2023.
 * My dissertation won ***CAAI Excellent Doctoral Dissertation Award*** 2021.
 * Our paper ***"Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics"*** won the **Best Paper Honorable Mention** at [SIGIR 2020](https://sigir.org/sigir2020/). 
 * I serve as reviewer of IPM, TOIS, CIKM and theWebConf.
@@ -48,5 +50,6 @@ Publications
 
 Experiences
 ======
+* **Aug. 2021 - Jul. 2023**. Postdoctoral researcher, [Information Retrieval Lab at Tsinghua University (THUIR)](http://www.thuir.cn/), Beijing, China.
 * **Oct. 2018 - Apr. 2019**. Visiting PhD student, Information and Language Processing Systems group, University of Amsterdam, Netherlands.
 * **Sep. 2017 - Sep. 2018**. Intern, Search Department, Sogou Incorporation, Beijing, China.
