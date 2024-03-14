@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fifth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My research interests are multimedia search, user behavior modeling, evaluation metrics and etc.
+I am now an associate processor in the Institute of Computer Networks, [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My research interests are network security, information retrieval, artificial intelligent and etc.
 
 Recent Professional Activities
 ======
-* Our paper ***"Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics"*** won the **Best Paper Honorable Mention** at [SIGIR 2020](https://sigir.org/sigir2020/).
-* I gave a tutorial on ***"Modeling user behavior for vertical search: Images, Apps and Products"*** on SIGIR 2020. 
+* I joined the Institute of Computer Networks, Department of Computer Science and Technology in Tsinghua University in August 2023.
+* My dissertation won ***CAAI Excellent Doctoral Dissertation Award*** 2021.
+* Our paper ***"Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics"*** won the **Best Paper Honorable Mention** at [SIGIR 2020](https://sigir.org/sigir2020/). 
 * I serve as reviewer of IPM, TOIS, CIKM 2019, theWebConf 2020.
-* I serve as [Student Liaison of SIGIR](https://sites.google.com/view/sigir-students/about).
-* Our paper ***"A search engine click model based on deep neural network"*** won the **Best Student Paper Award** at [CCIR 2016](http://ccir2016.ccnl.scut.edu.cn/index.php).
 
-Publications
+Selected Publications
 ======
 * Fan Zhang, Jiaxin Mao, Yiqun Liu, ***Xiaohui Xie***, Weizhi Ma, Min Zhang, Shaoping Ma. Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2020**). 
 * ***Xiaohui Xie***, Jiaxin Mao, Yiqun Liu, Maarten de Rijke. Modeling user behavior for vertical search: Images, Apps and Products. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2020**).
