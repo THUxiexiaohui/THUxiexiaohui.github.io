@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now an associate processor in the [Institute of Computer Networks](https://www.cs.tsinghua.edu.cn/csen/info/1057/3818.htm), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. 
-
-My research interests are Network Security, Multimedia, Artificial Intelligent and etc.
+I am now an associate processor in the [Institute of Computer Networks](https://www.cs.tsinghua.edu.cn/csen/info/1057/3818.htm), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My research interests are Network Security, Multimedia, Artificial Intelligent and etc.
 
 Recent Professional Activities
 ======
