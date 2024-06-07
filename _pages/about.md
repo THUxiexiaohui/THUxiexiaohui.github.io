@@ -23,6 +23,7 @@ Publications
 ======
 * Tongze Wang, ***Xiaohui Xie***, Lei Zhang, Chuyi Wang, Liang Zhang, Yong Cui. ShieldGPT: An LLM-based Framework for DDoS Mitigation. The 8th Asia Pacific Workshop on Networking (**APNET 2024**)
 * Jie Zhang, Xt Zuo, ***Xiaohui Xie***, Wei Wang, Yong Cui. TransPortal: Keeping Applications Enjoying Tailored Transport Effortlessly. (**IWQoS 2024**)
+* Shuqi Zhu, ***Xiaohui Xie***, Ziyi Ye, Qingyao Ai, Yiqun Liu. Comparing Point-wise and Pair-wise Relevance Judgment with Brain Signals. Journal of the Association for Information Science and Technology (**JASIST 2024**)
 * Zhizhen Zhang, ***Xiaohui Xie***, Yishuo Zhang, Lanshan Zhang, Yong Jiang. HierCas: Hierarchical Temporal Graph Attention Networks for Popularity Prediction in Information Cascades. (**IJCNN 2024**)
 * Ziyi Ye, ***Xiaohui Xie***, Qingyao Ai, Yiqun Liu, Zhihong Wang, Weihang Su, Min Zhang. Relevance Feedback with Brain Signals. ACM Transactions on Information Systems (**TOIS 2024**)
 * Ye Tian, Mengyu Yang, Lanshan Zhang, Zhizhen Zhang, Yang Liu, ***Xiaohui Xie***, Xirong Que, Wendong Wang. View while Moving: Efficient Video Recognition in Long-untrimmed Videos. Proceedings of the 31st ACM International Conference on Multimedia. (**MM 2023**)
