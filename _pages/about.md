@@ -21,6 +21,7 @@ Recent Professional Activities
 
 Publications
 ======
+* Yishuo Zhang, Lanshan Zhang, Zhizhen Zhang, Ziyi Wang, Wendong Wang, ***Xiaohui Xie***. Resolving Spurious Temporal Location Dependency for Video Corpus Moment Retrieval. (**SMC 2024**)
 * Tongze Wang, ***Xiaohui Xie***, Lei Zhang, Chuyi Wang, Liang Zhang, Yong Cui. ShieldGPT: An LLM-based Framework for DDoS Mitigation. The 8th Asia Pacific Workshop on Networking (**APNET 2024**)
 * Jie Zhang, Xt Zuo, ***Xiaohui Xie***, Wei Wang, Yong Cui. TransPortal: Keeping Applications Enjoying Tailored Transport Effortlessly. (**IWQoS 2024**)
 * Shuqi Zhu, ***Xiaohui Xie***, Ziyi Ye, Qingyao Ai, Yiqun Liu. Comparing Point-wise and Pair-wise Relevance Judgment with Brain Signals. Journal of the Association for Information Science and Technology (**JASIST 2024**)
