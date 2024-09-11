@@ -21,7 +21,7 @@ Recent Professional Activities
 
 Publications
 ======
-* Tongze Wang, Xiaohui Xie, Wenduo Wang, Chuyi Wang, Youjian Zhao, Yong Cui. NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba. (**ICNP 2024**)
+* Tongze Wang, ***Xiaohui Xie***, Wenduo Wang, Chuyi Wang, Youjian Zhao, Yong Cui. NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba. (**ICNP 2024**)
 * Lingfeng Peng, ***Xiaohui Xie***, Sijiang Huang, Ziyi Wang, Yong Cui. PTU: Pre-trained Model for Network Traffic Understanding. (**ICNP 2024**)
 * Yishuo Zhang, Lanshan Zhang, Zhizhen Zhang, Ziyi Wang, Wendong Wang, ***Xiaohui Xie***. Resolving Spurious Temporal Location Dependency for Video Corpus Moment Retrieval. (**SMC 2024**)
 * Tongze Wang, ***Xiaohui Xie***, Lei Zhang, Chuyi Wang, Liang Zhang, Yong Cui. ShieldGPT: An LLM-based Framework for DDoS Mitigation. The 8th Asia Pacific Workshop on Networking (**APNET 2024**)
