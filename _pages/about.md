@@ -21,6 +21,7 @@ Recent Professional Activities
 
 Publications
 ======
+* Chang Liu, Xiaohui Xie, Xinggong Zhang, Yong Cui. Large Language Models for Networking: Workflow, Advances and Challenges. (**IEEE Network 2024**)
 * Tongze Wang, ***Xiaohui Xie***, Wenduo Wang, Chuyi Wang, Youjian Zhao, Yong Cui. NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba. (**ICNP 2024**)
 * Lingfeng Peng, ***Xiaohui Xie***, Sijiang Huang, Ziyi Wang, Yong Cui. PTU: Pre-trained Model for Network Traffic Understanding. (**ICNP 2024**)
 * Yishuo Zhang, Lanshan Zhang, Zhizhen Zhang, Ziyi Wang, Wendong Wang, ***Xiaohui Xie***. Resolving Spurious Temporal Location Dependency for Video Corpus Moment Retrieval. (**SMC 2024**)
