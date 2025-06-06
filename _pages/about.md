@@ -21,6 +21,8 @@ Recent Professional Activities
 
 Publications
 ======
+* Yunze Wei, Kaiwen Chi, Shibo Du, ***Xiaohui Xie***, Ziyu Geng, Yuwei Han, Zhen Li, Zhanyou Li, Yong Cui. Large Language Model Driven Automated Network Protocol Testing. (**ANRW 2025**)
+* Xiaoyu He, ***Xiaohui Xie***, Xin Wang, Lei Zhang, Kun Xie, Lin Chen, Yong Cui. FlowSentry: Accelerating NetFlow-based DDoS Detection. (**CCS 2025**)
 * Chang Liu, ***Xiaohui Xie***, Xinggong Zhang, Yong Cui. Large Language Models for Networking: Workflow, Advances and Challenges. (**IEEE Network 2024**)
 * Tongze Wang, ***Xiaohui Xie***, Wenduo Wang, Chuyi Wang, Youjian Zhao, Yong Cui. NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba. (**ICNP 2024**)
 * Lingfeng Peng, ***Xiaohui Xie***, Sijiang Huang, Ziyi Wang, Yong Cui. PTU: Pre-trained Model for Network Traffic Understanding. (**ICNP 2024**)
