@@ -21,6 +21,9 @@ Recent Professional Activities
 
 Publications
 ======
+* Yunze Wei, ***Xiaohui Xie***, Tianshuo Hu, Yiwei Zuo, Xinyi Chen, Kaiwen Chi, Yong Cui. INTA: Intent-Based Translation for Network Configuration with LLM Agents. (**ICNP 2025**)
+* Gang Yi, Tongze Wang, Liang Du, ***Xiaohui Xie***, Ling Deng, Shixian Deng, Yong Cui. 6GQoS: A Flow-level QoS Assurance Framework for Next-Generation 6G Networks. (**ICNP 2025**)
+* Sijiang Huang, ***Xiaohui Xie***, Mowei Wang, Lingfeng Peng, Cong Li, Yong Zhang, Yingjie Qin, Liang Zhang, Yong Cui. Modeling Flow-level Traffic Demand for Network Performance Evaluation and Optimization. (**ICNP 2025**)
 * Yunze Wei, Kaiwen Chi, Shibo Du, ***Xiaohui Xie***, Ziyu Geng, Yuwei Han, Zhen Li, Zhanyou Li, Yong Cui. Large Language Model Driven Automated Network Protocol Testing. (**ANRW 2025**)
 * Xiaoyu He, ***Xiaohui Xie***, Xin Wang, Lei Zhang, Kun Xie, Lin Chen, Yong Cui. FlowSentry: Accelerating NetFlow-based DDoS Detection. (**CCS 2025**)
 * Chang Liu, ***Xiaohui Xie***, Xinggong Zhang, Yong Cui. Large Language Models for Networking: Workflow, Advances and Challenges. (**IEEE Network 2024**)
