@@ -21,6 +21,15 @@ Recent Professional Activities
 
 Publications
 ======
+* Yunze Wei, Kaicheng Yang, ***Xiaohui Xie***, Dunkai Mao, Peiying Tao, Yikai Zhao, Bolong Cui, Chen Sun, Bingyang Liu, Kun Tan, Kai Chen, Yong Cui. D-Pingmesh: Dynamic Probing and Fault Localization for Reconfigurable Datacenter Networks. (**ATC 2026**)
+* Tongze Wang, ***Xiaohui Xie***, Wenduo Wang, Chuyi Wang, Jinzhou Liu, Boyan Huang, Yannan Hu, Xiaolong Chen, Yuming Xie, Baoze Han, Hu Xie, Youjian Zhao, Yong Cui. NetMamba+: A framework of pre-trained models for efficient and accurate network traffic classification. (**ToN 2026**)
+* Yishuo Zhang, Lanshan Zhang, Zhizhen Zhang, Ziyi Wang, ***Xiaohui Xie***, Wendong Wang. SRHAC: Skeleton-Based Real-Time Human Action Counting with Spatial-Temporal Optimization. (**Tsinghua Science and Technology 2026**)
+* Chang Liu, ***Xiaohui Xie***, Xinyi Chen, Yong Cui. NetConfArena: An Executable Benchmark for LLM Agents in Closed-Loop Network Configuration. (**ICNP 2026**)
+* Jie Zhang, Lei Zhang, Ziyi Wang, Chenxiang Sun, Yuming Hu, ***Xiaohui Xie***, Zeqi Lai, Yong Cui. PEMI: Transparent Performance Enhancements for QUIC. (**SIGMETRICS 2026**)
+* Zijia Song, Zhengyi Ma, Qiming Yu, ***Xiaohui Xie***, Yelin Wang, Guozheng Yang. PaT: An enhanced pretrained framework via Mamba-2 for network traffic analysis. (**Computer Networks 2026**)
+* Gong Chen, Chaokun Zhang, Pengcheng Lv, ***Xiaohui Xie***. Cora: A collaborative robust architecture with hybrid fusion for efficient perception. (**AAAI 2026**)
+* Chuyi Wang, ***Xiaohui Xie***, Tongze Wang, Yong Cui. Bias in the Shadows: Explore Shortcuts in Encrypted Network Traffic Classification. (**IWQoS 2026**)
+* Yishuo Zhang, Lanshan Zhang, YaYa Wei, Ziyan Zhong, Xiaohui Xie, Ziyi Wang, Wendong Wang. IntentVQA: A QoE-Aware Cloud-End Collaborative System for Video QA. (**IWQoS 2026**)
 * Yunze Wei, ***Xiaohui Xie***, Tianshuo Hu, Yiwei Zuo, Xinyi Chen, Kaiwen Chi, Yong Cui. INTA: Intent-Based Translation for Network Configuration with LLM Agents. (**ICNP 2025**)
 * Gang Yi, Tongze Wang, Liang Du, ***Xiaohui Xie***, Ling Deng, Shixian Deng, Yong Cui. 6GQoS: A Flow-level QoS Assurance Framework for Next-Generation 6G Networks. (**ICNP 2025**)
 * Sijiang Huang, ***Xiaohui Xie***, Mowei Wang, Lingfeng Peng, Cong Li, Yong Zhang, Yingjie Qin, Liang Zhang, Yong Cui. Modeling Flow-level Traffic Demand for Network Performance Evaluation and Optimization. (**ICNP 2025**)
